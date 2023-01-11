@@ -37,6 +37,29 @@ function List(){
                                 ranges={date}
                             />}
                         </div>
+                        <div className="lsItem">
+                            <label>Options</label>
+                            <div className="lsOptionItem">
+                                <span className="lsOptionText">Min Price <small>Per Night</small></span>
+                                <input type={"number"} className={"lsOptionInput"}/>
+                            </div>
+                            <div className="lsOptionItem">
+                                <span className="lsOptionText">Min Price <small>Per Night</small></span>
+                                <input type={"number"} className={"lsOptionInput"}/>
+                            </div>
+                            <div className="lsOptionItem">
+                                <span className="lsOptionText">Min Price <small>Per Night</small></span>
+                                <input type={"number"} className={"lsOptionInput"}/>
+                            </div>
+                            <div className="lsOptionItem">
+                                <span className="lsOptionText">Min Price <small>Per Night</small></span>
+                                <input type={"number"} className={"lsOptionInput"}/>
+                            </div>
+                            <div className="lsOptionItem">
+                                <span className="lsOptionText">Min Price <small>Per Night</small></span>
+                                <input type={"number"} className={"lsOptionInput"}/>
+                            </div>
+                        </div>
                     </div>
                     <div className="listResult"></div>
                 </div>
